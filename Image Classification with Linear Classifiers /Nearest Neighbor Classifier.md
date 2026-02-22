@@ -6,3 +6,9 @@ the distance matrix takes the input photo and compares it with each image in the
 
 1 way of doing that is the follow: <img width="1060" height="597" alt="Screenshot 2026-02-23 at 01 02 18" src="https://github.com/user-attachments/assets/01603329-8b7b-4ee9-a741-2854613bd246" />
 
+coding part:<img width="1060" height="549" alt="Screenshot 2026-02-23 at 01 05 24" src="https://github.com/user-attachments/assets/09b56735-6eb7-4c3e-b4ed-65aecfcd28f8" />
+<img width="1060" height="549" alt="Screenshot 2026-02-23 at 01 05 31" src="https://github.com/user-attachments/assets/0ff18127-d9b3-4f67-b0fc-d430028a3a07" />
+
+
+
+
